@@ -17,15 +17,15 @@ html, css, javascript, php&mysql, ajax를 이용한 웹 제작도 경험해본 �
 학창시절 포트폴리오 스크린샷
 
 짝맞추기 <br/>
-![ex_screenshot](./img/MemoryTest.png)
+![ex_screenshot](./img/MemoryTest.jpg)
 <br/>
 
 총게임 <br/>
-![ex_screenshot](./img/spaceshooter.png)
+![ex_screenshot](./img/spaceshooter.jpg)
 <br/>
 
 미로게임 <br/>
-![ex_screenshot](./img/Maze.png)
+![ex_screenshot](./img/Maze.jpg)
 <br/>
 
 채팅 <br/>
