@@ -8,7 +8,7 @@
 그러므로 javascript 위주의 포트폴리오를 소개하겠습니다.
 
 <br/><br/>
-포트폴리오 스크린샷<br/>
+포트폴리오<br/>
 <br/>
 자바스크립트 게임 <br/>
 ![ex_screenshot](./img/simple-JS-game-collection.jpg)
