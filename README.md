@@ -17,6 +17,7 @@
 제작 년도 : 2019<br/>
 설명 : 간단한 자바스크립트 게임들을 모아둔 사이트.<br/>
 팀원 : 개인 프로젝트<br/>
+주요기술 : html, css, javascript<br/>
 주요기능 :<br/>
 -1. 베스킨라빈스 31 게임<br/>
 -2. 경마게임<br/>
@@ -35,8 +36,8 @@ https://wjdskagjs1.github.io/simplejsgame/<br/>
 제작 년도 : 2020<br/>
 설명 : 기록해두고 싶은 코드의 일부분을 기록해두는 메모장<br/>
 팀원 : 개인 프로젝트<br/>
+주요기술 : html, css, javascript, node.js, express<br/>
 주요기능 :<br/>
--node.js, express, fs 모듈 사용<br/>
 -새 파일, 저장, 불러오기 기능<br/>
 <br/>
 소스 링크 :<br/>
@@ -50,8 +51,8 @@ https://github.com/wjdskagjs1/CodeRecycler<br/>
 제작 년도 : 2020<br/>
 설명 : 애니자음퀴즈를 할 수 있는 디스코드 챗봇<br/>
 팀원 : 개인 프로젝트<br/>
+주요기술 : html, css, javascript, discord.js, mysql<br/>
 주요기능 :<br/>
--node.js, discord.js 사용<br/>
 -문제 등록 기능<br/>
 -문제 갯수 제한, 점수판 기능<br/>
 <br/>
