@@ -33,6 +33,7 @@ https://wjdskagjs1.github.io/simplejsgame/<br/>
 
 <br/>
 마법의 소라고동 디코봇 <br/>
+
 ![ex_screenshot](./img/sorabot.png)
 <br/>
 제목 : 마법의 소라고동 디코봇<br/>
