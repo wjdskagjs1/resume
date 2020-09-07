@@ -31,33 +31,23 @@ https://github.com/wjdskagjs1/simplejsgame/<br/>
 https://wjdskagjs1.github.io/simplejsgame/<br/>
 <br/><br/>
 
-smartb2b 쇼핑몰 <br/>
-![ex_screenshot](./img/b2b.png)
 <br/>
-제목 : smartb2b 쇼핑몰<br/>
-제작 년도 : 2019<br/>
-설명 : 기업이 기업을 대상으로 상품을 판매하는 쇼핑몰 <br/>
-주요기술 : html, css, javascript, php, mysql<br/>
-주요기능 :<br/>
--로그인/로그아웃<br/>
--마이페이지<br/>
--상품 주문<br/>
--상품 문의<br/>
--취소, 반품, 교환<br/>
-
-택배사 설정 자동화 <br/>
-![ex_screenshot](./img/DeliverySetAuto.png)
+마법의 소라고동 디코봇 <br/>
+![ex_screenshot](./img/sorabot.png)
 <br/>
-제목 : 택배사 설정 자동화<br/>
+제목 : 마법의 소라고동 디코봇<br/>
 제작 년도 : 2020<br/>
-설명 : 기록해두고 싶은 코드의 일부분을 기록해두는 메모장<br/>
-주요기술 : Visual Basic 6, mssql<br/>
+설명 : 질문에 대해 정해진 답변을 랜덤하게 송신하는 디스코드 챗봇<br/>
+주요기술 : node.js, discord.js, gcp vm<br/>
 주요기능 :<br/>
--사용 여부 설정<br/>
--택배사 설정 조회, 추가, 삭제<br/>
--박스 타입 매핑<br/>
--송장 위치 조정<br/>
+채팅채널 "마법의-소라고동"을 개설하시면 거기에서만 명령어를 사용할 수 있습니다.<br/>
+뒤에 물음표(?)가 붙어있지 않으면 다시 물어보라고 합니다.<br/>
 <br/>
+소스 링크 :<br/>
+https://github.com/wjdskagjs1/sorabot<br/>
+<br/><br/>
+
+
 
 애니 자음 퀴즈 디코봇 <br/>
 ![ex_screenshot](./img/acq.png)
